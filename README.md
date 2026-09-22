@@ -62,7 +62,7 @@ All ROM files declare the same entity (`ROM32x24`), so only one is included in t
 
 ## Running a simulation
 
-1. Open `PIC24.xise` in Xilinx ISE.
+1. Open `PIC24.ise` in Xilinx ISE.
 2. Make sure the desired `ROM32X24_*.vhd` is the ROM source in the project.
 3. Switch to the **Simulation** view (Behavioral) and select the matching `TBW_*.tbw` testbench.
 4. Run **Simulate Behavioral Model**.
