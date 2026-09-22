@@ -69,7 +69,7 @@ All ROM files declare the same entity (`ROM32x24`), so only one is included in t
 
 ## Documentation
 
-The full documentation — instruction encodings, control signal table, block descriptions and simulation waveforms — is in [`Documentation.pdf`](Documentation.pdf).
+The full documentation containing instruction encodings, control signal table, block descriptions and simulation waveforms is in [`Documentation.pdf`](Documentation.pdf).
 
 ---
 
