@@ -1,0 +1,15 @@
+[Inputs]
+=OP[7:0]=
+[Outputs]
+MemWr
+Mem2Reg
+RegWr
+RegDest
+RegBase
+Branch
+CE_ZF
+CE_NF
+CE_OVF
+CE_CF
+=ALUOP[2:0]=
+[BiDir]
